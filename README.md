@@ -99,7 +99,7 @@ I worked my way through the requirements and TDD scenarios for nil or whitespace
 
 
  First attempt 
- [video](http_link_to_video)
+ [video](https://drive.google.com/file/d/1D94aoPZZMhGK6AEgWYn39jpLDnnkcrj9/view?usp=sharing)
 
 
 
